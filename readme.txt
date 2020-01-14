@@ -1,6 +1,3 @@
-Author:
-Samson Assefaw 100774078
-
 Date:
 2018-04-10
 
